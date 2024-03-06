@@ -1,7 +1,9 @@
 
-# Internship Task Summary - #Website Functionality Replication:
+# Internship Task Summary - Website Functionality Replication:
+
 Project Setup:
 - Created project directory.
+
 Flask Environment:
 - Installed Flask (pip install Flask).
 Flask App Initialization:
@@ -15,7 +17,7 @@ Form Handling:
 Results Display:
 - Rendered matched strings on HTML.
 Testing:
-- Ran Flask app, tested at http://localhost:5000.
+- Run Flask app, tested at http://3.95.60.148:5000/.
 Additional Feature:
 - Implemented email ID validation.
 Deployment:
