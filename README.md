@@ -1,31 +1,30 @@
-
 # Internship Task Summary - Website Functionality Replication:
 
 Project Setup:
-- Created project directory.
+- Established a project directory.
 
 Flask Environment:
-- Installed Flask (pip install Flask).
+- Installed Flask using the command 'pip install Flask'.
 
 Flask App Initialization:
-- Created app.py for a Flask app.
-- Defined routes for home ("/") and results ("/results").
+- Developed 'app.py' to initiate a Flask app.
+- Defined routes for the home ("/") and results ("/results").
 
 HTML Template:
-- Designed 'index.html' for user input.
+- Crafted 'index.html' to facilitate user input.
 
 Form Handling:
-- Extracted and processed user input.
-- Used re module for regex matching.
+- Extracted and processed user input effectively.
+- Utilized the 're' module for regex matching.
 
 Results Display:
-- Rendered matched strings on HTML.
+- Dynamically rendered matched strings on the HTML template.
 
 Testing:
-- Run Flask app, tested at http://3.95.60.148:5000/.
+- Executed the Flask app and performed comprehensive testing at http://3.95.60.148:5000/.
 
 Additional Feature:
-- Implemented email ID validation.
+- Successfully incorporated email ID validation.
 
 Deployment:
-- Deployed on AWS Cloud.
+- Deployed the application on the AWS Cloud.
